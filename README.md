@@ -1,2 +1,2 @@
 View an interactive version of the notebook on binder:
-https://hub.mybinder.org/user/rstones-recursion-notebook-43ofgyvc/tree
+https://mybinder.org/v2/gh/https%3A%2F%2Fhub.mybinder.org%2Fuser%2Frstones-recursion-notebook-43ofgyvc%2Ftree/master
